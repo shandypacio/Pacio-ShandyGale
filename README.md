@@ -8,9 +8,9 @@ I added a repository by opening the Github website and then adding it to File Ex
 I completed the coding immediately after, and since I had already downloaded Live Server, all I needed to do to run the site is by clicking the "Go Live" button in the lower right corner. I then push it after committing my edits or modifications.
 
 **Brief Description of the HTML Elements and Tags I used**
-1. <!DOCTYPE html> - Indicates the HTML version and document type (in this case, HTML5). Indicates the HTML version and document type (in this case, HTML5).
-2. <html> - The main element enclosing the entire webpage's content.
-3. <head>- Holds meta-data about the document, such as linked stylesheets, viewport settings, and character set.
+1. !DOCTYPE html - Indicates the HTML version and document type (in this case, HTML5). Indicates the HTML version and document type (in this case, HTML5).
+2. html - The main element enclosing the entire webpage's content.
+3. head- Holds meta-data about the document, such as linked stylesheets, viewport settings, and character set.
 4. title - Determines the web page's title that shows up in the browser tab.
 5. meta - Indicates the viewport settings and character encoding.
 6. link - To improve the visual display, links to an external stylesheet.
